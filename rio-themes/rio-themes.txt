@@ -1,0 +1,7 @@
+"rio-themes" is rio, but built with the theme patch from https://ftrv.se/14. It defaults to the traditional Plan 9 rio theme.
+
+To try out a theme, you can do something like this after running:
+cat /usr/sdf/lib/rio-themes/amber > /dev/theme
+
+If you want a theme to start when you login, you can make a copy of riostart and add something like this:
+window 'cat /usr/jgstratt/lib/rio-theme.amber > /dev/theme'

@@ -1,0 +1,6 @@
+#!/bin/rc -x
+rfork n
+bind -ac /sys/src/cmd/rio `{pwd} &&
+mk clean &&
+mk install &&
+mk clean

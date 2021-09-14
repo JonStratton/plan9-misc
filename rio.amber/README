@@ -1,0 +1,9 @@
+CHANGES
+
+	color scheme. see mkfile, data.c, and menuhit.c.
+
+INSTALL
+
+	; ./install
+
+sl
