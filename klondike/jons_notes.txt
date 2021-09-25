@@ -1,0 +1,9 @@
+Original:
+	https://9p.io/wiki/plan9/contrib_index_test/index.html
+
+	9fs sources
+	/n/sources/contrib/bichued/root/sys/src/games/klondike/
+
+Changes:
+	New Make file that copies card dir.
+	Code takes card path as a #define

@@ -1,0 +1,13 @@
+386	- sys sys
+	bin	- sys sys
+		games	- sys sys
+			klondike	- sys sys
+sys	- sys sys
+	games	- sys sys
+		lib	- sys sys
+			klondike	- sys sys
+				+	- sys sys
+	src	- sys sys
+		games	- sys sys
+			klondike	- sys sys
+				+	- sys sys
